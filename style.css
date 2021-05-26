@@ -1,0 +1,56 @@
+h2{
+    font-family: sans-serif;
+}
+
+h3{
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+a{
+    font-family: sans-serif;
+    text-decoration: none;
+    background-color: darkgrey;
+    padding: 5px
+}
+
+a:hover{
+    background-color: aqua; 
+    color: #ffffff;
+}
+menu-bar a{
+    font-family: sans-serif;
+    text-decoration: none;
+    background-color: darkgrey;
+    padding: 5px;
+}
+
+menu-bar a:hover{
+    background-color: aqua;
+    color: #ffffff;
+}
+
+table{
+    font-family: sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    box-shadow: -1px 12px 12px -6px rgba(0,0,0,0.5)
+}
+
+table, td, th{
+    padding: 8px;
+}
+
+button{
+    border: 5px. solid #3498db;
+    background: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+button:hover{
+    background: #338033;
+    cursor: pointer;
+}
